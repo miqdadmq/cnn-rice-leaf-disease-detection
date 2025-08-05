@@ -1,8 +1,2 @@
-{
-  "bacterial blight": "Bacterial_blight",
-  "blast": "blast",
-  "brownspot": "brownspot",
-  "healthy": "healthy",
-  "tungro": "tungro"
+['bacterial_blight', 'blast', 'brownspot', 'healthy', 'tungro'] 
 
-}
